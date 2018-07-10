@@ -1,0 +1,22 @@
+// COLOR PALLETE
+$primary: #8bc34a;
+$primary-light: #9ccc65;
+
+$black: #000000;
+$light-gray: #F0F0F0;
+$medium-gray: #A0A0A0;
+$dark-gray: #404040;
+$white: #FFFFFF;
+
+// VARIABLES
+$footer-height: 130px;
+
+
+// FONTS
+
+@import url('https://fonts.googleapis.com/css?family=Carter+One|Lato:400,400i,700,700i|Roboto+Mono');
+$font-body: 'Lato', sans-serif;
+$font-title: 'Carter One', sans-serif;
+$font-code: 'Roboto Mono', Menlo, Monaco, Consolas, "Courier New", monospace;
+
+@import 'style';

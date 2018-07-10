@@ -1,0 +1,24 @@
+# default sculpin gitignore
+/.sculpin/
+/app/cache/*
+/app/config/sculpin_kernel_*.yml
+/app/config/sculpin_site_*.yml
+/app/logs/*
+/output_*/
+/node_modules/*
+/source/components/
+s3.conf
+
+# extra
+/vendor/*
+
+# Prepros
+prepros-6.conf
+
+# macOS
+.DS_Store
+Thumbs.db
+
+# Netlify
+.netlify
+netlify.toml
