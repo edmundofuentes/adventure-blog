@@ -5,6 +5,7 @@ tags:
     - baja
 categories:
     - mototrip
+draft: yes
 ---
 
 # Arriving
